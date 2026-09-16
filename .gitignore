@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.env
+.env.*
+!.env.example
+.DS_Store
+artifacts/
+renv/library/
+renv/staging/
+renv/local/
